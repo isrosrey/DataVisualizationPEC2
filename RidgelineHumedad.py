@@ -1,3 +1,5 @@
+# Código basado en el ejemplo mostrado en: https://python-graph-gallery.com/ridgeline-graph-seaborn
+
 # Se importan las librerías necesarias
 import numpy as np
 import pandas as pd
