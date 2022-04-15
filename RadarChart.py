@@ -52,5 +52,7 @@ ax.plot(angles, values, linewidth=1, linestyle='solid')
 # Se rellena el área
 ax.fill(angles, values, 'b', alpha=0.1)
 
+# Se guarda el gráfico en un fichero
+plt.savefig('./output/RadarChart.png')
 # Se muestra el gráfico
 plt.show()
