@@ -22,6 +22,7 @@ Generar gráficos de tipo infografía, radar chart y rigdeline chart
 ### Ridgeline Chart
 
 * [Introducing Ridgeline plots (formerly Joyplots)](https://blog.revolutionanalytics.com/2017/07/joyplots.html), consultado el 19/04/2022
+* [Pop Culture Pulsar: The Science Behind Joy Division's Unknown Pleasures Album Cover](https://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-the-science-behind-joy-division-s-unknown-pleasures-album-cover/), consuldato el 19/04/2022
 * [Goodbye joyplots](https://clauswilke.com/blog/2017/09/15/goodbye-joyplots/), consultado el 19/04/2022
 * [Drawing a ridgeline graph with Seaborn](https://python-graph-gallery.com/ridgeline-graph-seaborn), consultado el 15/04/2022
 * [Temperature and Humidity of Kolkata from 2015-2020](https://www.kaggle.com/datasets/sumandey/temperature-and-humidity-of-kolkata-from-20152020?select=weather_data_kolkata_2015_2020.csv), consultado el 15/04/2022
